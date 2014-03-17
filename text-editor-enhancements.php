@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Text Editor Enhancements
-Description: How to add buttons to the text editor view.  Adds a Gallery button
+Description: How to add buttons to the text editor view.  Adds a simple gallery button
 Version: 0.1
 Author: Katherine Semel
 */
